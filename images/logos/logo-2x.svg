@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 120 120" role="img" aria-label="Enchanted Stays logo">
+  <rect width="120" height="120" rx="18" fill="#1b2a41"/>
+  <circle cx="60" cy="60" r="46" fill="none" stroke="#d4af37" stroke-width="4"/>
+  <text x="60" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#f8f6f2">HC</text>
+</svg>

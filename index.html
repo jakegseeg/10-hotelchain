@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Explore ten distinctive luxury hotel locations around the world."
+    />
+    <title>Hotel Locations | Enchanted Stays Collection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="brand" aria-label="Company brand">
+        <img
+          src="images/logos/logo-1x.svg"
+          srcset="
+            images/logos/logo-1x.svg 1x,
+            images/logos/logo-2x.svg 2x,
+            images/logos/logo-3x.svg 3x
+          "
+          alt="Enchanted Stays Collection logo"
+          width="64"
+          height="64"
+        />
+        <div class="brand__text">
+          <p class="brand__kicker">Luxury Hotel Group</p>
+          <h1>Hallowed Crest Collection</h1>
+        </div>
+      </div>
+
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-nav"
+      >
+        <span class="menu-toggle__label">Menu</span>
+      </button>
+
+      <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#main-content">Locations</a></li>
+          <li><a href="#">Amenities</a></li>
+          <li><a href="#">Reservations</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="intro" aria-labelledby="locations-title">
+        <h2 id="locations-title">Hotel Locations</h2>
+        <p>
+          Discover iconic destinations inspired by magical worlds and the finest
+          hotels on earth.
+        </p>
+      </section>
+
+      <section class="hotel-list" aria-live="polite" aria-label="Hotel cards"></section>
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; <span id="current-year"></span> &bull; Hallowed Crest Inc.</p>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+  </body>
+</html>

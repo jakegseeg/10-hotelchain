@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://attractionsmagazine.com/wp-content/uploads/2026/01/Exterior-02-Dellshire-Resort-Wisconsin-Dells-courtesy-of-Benchmark-Resorts-Hotels.png",
+    "name": "The Phoenix Feather Grand",
+    "address": ["11 Diagon Passage", "London, UK NW1 6XE"],
+    "phone": "+44 20 7946 1020"
+  },
+  {
+    "image": "https://theaficionados.com/cache/images/lukas_hanifle_photog_007084b0001759239221.jpg",
+    "name": "Aurora Reserve Palace",
+    "address": ["88 Fjord Light Avenue", "Tromso, Norway 9020"],
+    "phone": "+47 77 67 11 33"
+  },
+  {
+    "image": "https://www.siebersturm.de/images/rooms/comfort-double.jpeg",
+    "name": "Hogwarts Highlands Lodge",
+    "address": ["4 Castle View Road", "Inverness, Scotland IV2 3TY"],
+    "phone": "+44 1463 220 440"
+  },
+  {
+    "image": "https://thespaces.com/wp-content/uploads/2017/02/Locanda-dell%E2%80%99Amorosa-1650.jpg",
+    "name": "The Sapphire Burj Suites",
+    "address": ["26 Crescent Marina Walk", "Dubai, UAE 00000"],
+    "phone": "+971 4 561 8890"
+  },
+  {
+    "image": "https://static-new.lhw.com/HotelImages/Final/LW2235/lw2235_199922161_720x450.jpg",
+    "name": "Mara Moonlight Retreat",
+    "address": ["9 Savannah Circle", "Maasai Mara, Kenya 20500"],
+    "phone": "+254 20 909 7721"
+  },
+  {
+    "image": "https://landlopers.com/wp-content/uploads/2017/08/Wartburg-Germany-825x642.jpg",
+    "name": "The Celestial Ritz House",
+    "address": ["510 Imperial Garden Street", "Tokyo, Japan 100-8111"],
+    "phone": "+81 3 5521 4432"
+  },
+  {
+    "image": "https://www.chateauberne.com/wp-content/uploads/2023/09/shutterstock_1494214184-1.jpg",
+    "name": "Dragonfire Bay Resort",
+    "address": ["71 Ember Coast Drive", "Santorini, Greece 84700"],
+    "phone": "+30 2286 055 370"
+  },
+  {
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/bd/6e/44/the-castle-side-view.jpg?w=1200&h=-1&s=1",
+    "name": "Opaline Four Seasons Court",
+    "address": ["140 Royal Palm Causeway", "Bora Bora, French Polynesia 98730"],
+    "phone": "+689 40 66 87 40"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hostel_Dieu_Beaune.jpg",
+    "name": "Patronus Peak Chalet",
+    "address": ["2 Silver Stag Lane", "Zermatt, Switzerland 3920"],
+    "phone": "+41 27 990 18 60"
+  },
+  {
+    "image": "https://www.travelandleisure.com/thmb/NRJ0hRESOUaeqU1lL3qa_mLxG64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-header-exterior-castel-badia-dolomites-CASTELBADIA0126-117a1c443b124da8aec4755bca6875d6.jpg",
+    "name": "The Golden Atlantis Manor",
+    "address": ["301 Ocean Crown Boulevard", "Nassau, Bahamas N-4928"],
+    "phone": "+1 242 555 0199"
+  }
+]
