@@ -96,6 +96,22 @@ a {
   border-left: 1px solid #d1d5db;
   background: #ffffff;
 }
+.menu-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  border: 0;
+  border-radius: 0.35rem;
+  padding: 0.4rem 0.6rem;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #1b2a41;
+  background: transparent;
+}
+.menu-close:hover,
+.menu-close:focus-visible {
+  background: #e5e7eb;
+}
 body.nav-open .site-nav {
   transform: translateX(0);
 }
@@ -197,6 +213,9 @@ main {
     margin: 0 auto;
   }
   .menu-toggle {
+    display: none;
+  }
+  .menu-close {
     display: none;
   }
   .site-nav {

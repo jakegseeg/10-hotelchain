@@ -1,5 +1,6 @@
 const menuToggle = document.querySelector(".menu-toggle");
 const siteNav = document.querySelector("#site-nav");
+const menuClose = document.querySelector(".menu-close");
 const hotelList = document.querySelector(".hotel-list");
 const yearNode = document.querySelector("#current-year");
 
@@ -11,6 +12,10 @@ const setMenuState = (isOpen) => {
 menuToggle.addEventListener("click", () => {
   const isOpen = !document.body.classList.contains("nav-open");
   setMenuState(isOpen);
+});
+
+menuClose?.addEventListener("click", () => {
+  setMenuState(false);
 });
 
 document.addEventListener("click", (event) => {
